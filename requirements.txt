@@ -1,2 +1,7 @@
 Flask
 Gunicorn
+Schedule
+Requests
+Time
+python-dotenv
+logging
